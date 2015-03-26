@@ -31,6 +31,6 @@ Example script output:
       14 |   |PX SEND HASH - :TQ10002                                134.6 M      175,036,199                           2 READY
       15 |   | PX BLOCK ITERATOR                                     134.6 M      175,036,199                           2 READY
       16 |   |  TABLE ACCESS FULL - LARGE_INPUT_TABLE                134.6 M      175,036,199                           2 READY
-      
-      
-      Note: The script *can* run without SQL\*Plus but you'll still need to supply the sql_id some way or another.
+
+
+Note: The script *can* run without SQL\*Plus but you'll still need to supply the sql_id some way or another.
